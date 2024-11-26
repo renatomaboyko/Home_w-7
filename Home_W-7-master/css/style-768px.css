@@ -1,0 +1,430 @@
+@media (max-width: 768px) {
+  body {
+    width: 767px;
+    Height: 5468px;
+  }
+
+  .header-top {
+    width: 640px;
+    height: 104.71px;
+    top: 30px;
+    left: 64px;
+  }
+
+  .data {
+    width: 130px;
+    height: 29px;
+    top: 40px;
+    left: 510px;
+  }
+
+  .logo {
+    width: 73px;
+    height: 104.71px;
+    left: 285px;
+    top: 0px;
+    position: absolute;
+  }
+
+  .account-none {
+    width: 58px;
+    height: 29px;
+    gap: 20px;
+    top: 2px;
+    left: 0px;
+    position: absolute;
+    opacity: 0px;
+    display: flex;
+  }
+
+  .search {
+    width: 22px;
+    height: 22px;
+    gap: 0px;
+    left: 108px;
+    top: 4px;
+    opacity: 0px;
+    position: absolute;
+  }
+
+  .text-align {
+    width: 768px;
+    background-image: url(/images/Hero1000.png);
+    top: 168px;
+    left: -1px;
+  }
+
+  h1 {
+    width: 684px;
+    height: 120px;
+    top: 254px;
+    left: 20px;
+    position: absolute;
+    margin: 0 auto;
+  }
+
+  .text-align2 {
+    width: 557.65px;
+    height: 58px;
+    top: 393px;
+    left: 19.88px;
+    position: absolute;
+    margin: 0;
+  }
+
+  .blockquote {
+    width: 640px;
+    height: 111px;
+    top: 788px;
+    left: 63px;
+  }
+
+  .rectangle92 {
+    width: 273px;
+    height: 61px;
+    top: 837px;
+    left: 432px;
+    gap: 0px;
+    opacity: 0.5px;
+  }
+
+  .explore {
+    width: 636px;
+    height: 582px;
+    top: 983px;
+    left: 65px;
+    position: absolute;
+    display: grid;
+  }
+
+  .reviews1 {
+    width: 369px;
+    height: 48px;
+    top: 36px;
+    left: 182px;
+    position: absolute;
+  }
+
+  .tea {
+    width: 636px;
+    height: 247px;
+    top: 57px;
+    left: -1px;
+    gap: 6px;
+    position: absolute;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-around;
+  }
+
+  .testimonials {
+    width: 768px;
+    height: 596px;
+    top: 1686px;
+    left: -1px;
+    position: absolute;
+    display: grid;
+  }
+
+  .reviews {
+    width: 329px;
+    height: 48px;
+    top: 95px;
+    left: 226px;
+    position: absolute;
+  }
+
+  .frame {
+    width: 636px;
+    height: 169px;
+    top: 204px;
+    left: 68px;
+    gap: 76px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: baseline;
+  }
+
+  .frame-item,
+  .frame-item2 {
+    width: 208px;
+    height: 48px;
+    top: 0px;
+    left: 355px;
+    gap: 0px;
+    opacity: 0px;
+  }
+
+  .frame-item3 {
+    width: 280px;
+    height: 125px;
+    top: 230px;
+    left: 0px;
+    gap: 10px;
+    opacity: 0px;
+  }
+
+  .frame-item4 {
+    width: 280px;
+    height: 147px;
+    top: 230px;
+    left: 350px;
+    gap: 10px;
+    opacity: 0px;
+  }
+
+  .Blog {
+    width: 640px;
+    height: 1029px;
+    top: 2437px;
+    left: 63px;
+    position: absolute;
+    display: grid;
+  }
+
+  .title {
+    width: 208px;
+    height: 48px;
+    top: 2434px;
+    left: 280px;
+    gap: 0px;
+    opacity: 0px;
+  }
+
+  .cards1 {
+    width: 542px;
+    height: 180px;
+    top: 108px;
+    left: -1px;
+  }
+
+  .cards2 {
+    width: 542px;
+    height: 180px;
+    top: 528px;
+    left: 0%;
+  }
+
+  .cards3 {
+    width: 542px;
+    height: 180px;
+    top: 318px;
+    left: 97px;
+  }
+
+  .cards4 {
+    width: 542px;
+    height: 180px;
+    top: 738px;
+    left: 98px;
+  }
+
+  .knopka1 {
+    width: 149px;
+    height: 51px;
+    top: 978px;
+    left: 246px;
+    padding: 11px 40px 11px 40px;
+    gap: 10px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+  }
+
+  .main_page {
+    width: 768px;
+    height: 525px;
+    top: 3617px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+  }
+
+  .main-title {
+    width: 768px;
+    height: 525px;
+    top: 3584px;
+    gap: 0px;
+    opacity: 0px;
+  }
+
+  .line5 {
+    top: 0px;
+    left: 15px;
+  }
+
+  .main_content {
+    width: 640px;
+    height: 120px;
+    top: 170px;
+    left: 64px;
+    gap: 0px;
+    opacity: 0px;
+    text-align: center;
+  }
+
+  .text-main {
+    width: 326px;
+    height: 48px;
+    top: 61px;
+    left: 223px;
+    gap: 0px;
+    opacity: 0px;
+  }
+
+  .tea1 {
+    width: 673px;
+    height: 417.55px;
+    top: 90px;
+    left: 95px;
+    gap: 0px;
+    opacity: 0px;
+  }
+
+  .confidentiality {
+    width: 580px;
+    height: 117px;
+    top: 404px;
+    left: 95px;
+  }
+
+
+  .prioriti {
+    width: 638px;
+    height: 489px;
+    top: 4228px;
+    left: 65px;
+    display: grid;
+    position: absolute;
+  }
+
+  .prioriti1 {
+    width: 207px;
+    height: 48px;
+    top: 35px;
+    left: 219px;
+
+  }
+
+  .frame-prioriti1 {
+    width: 638px;
+    height: 178px;
+    top: 336px;
+    left: 65px;
+    gap: 133px;
+    opacity: 0px;
+    display: flex;
+  }
+
+  .group1,
+  .group2 {
+    width: 638px;
+    height: 178px;
+    top: -194px;
+    left: -65px;
+    gap: 133px;
+    opacity: 0px;
+    display: flex;
+    position: absolute;
+  }
+
+  .group3,
+  .group4 {
+    width: 636px;
+    height: 172.99px;
+    top: 16px;
+    left: -668px;
+    opacity: 0px;
+    display: flex;
+    position: absolute;
+  }
+
+
+  footer {
+    width: 768px;
+    height: 631px;
+    top: 4872px;
+    gap: 0px;
+    opacity: 0px;
+  }
+
+  .bottom-menu-products {
+    width: 97px;
+    height: 269px;
+    top: 50px;
+    left: 63px;
+    gap: 50px;
+    opacity: 0px;
+  }
+
+  .bottom-menu-company {
+    width: 155px;
+    height: 353px;
+    top: 51px;
+    left: 213px;
+    gap: 50px;
+    opacity: 0px;
+  }
+
+  .bottom-quatation {
+    width: 269px;
+    height: 162px;
+    top: 50px;
+    left: 434px;
+    gap: 0px;
+    opacity: 0px;
+  }
+
+  .bottom-cotacts {
+    width: 270px;
+    height: 267px;
+    top: 262px;
+    left: 435px;
+    gap: 0px;
+    opacity: 0px;
+  }
+
+  .social {
+    width: 150px;
+    height: 22px;
+    top: 246px;
+    left: 95px;
+    gap: 20px;
+    opacity: 0px;
+  }
+
+  .telephone {
+    width: 135.81px;
+    height: 20.81px;
+    gap: 10px;
+    opacity: 0px;
+    top: 28px;
+    position: absolute;
+  }
+
+  .bottom-other {
+    width: 305px;
+    height: 22px;
+    top: 599px;
+    left: 62px;
+  }
+
+  .payment {
+    width: 156px;
+    height: 20px;
+    top: 100px;
+    top: 0px;
+    left: 149px;
+    opacity: 0px;
+  }
+
+}
+@media (max-width: 481px) {
+  .text-align {
+    background-image: none;
+  }
+}
